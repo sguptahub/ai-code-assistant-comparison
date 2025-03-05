@@ -1,4 +1,4 @@
-# Prompt: Create code for calculator with basic add, substract, multiply and division function
+# Prompt: Generate code for calculator with basic add, substract, multiply and division function
 
 def add(x, y):
     return x + y
